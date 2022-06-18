@@ -1,0 +1,23 @@
+{
+  "name": "apprastreioencomenda",
+  "version": "1.0.0",
+  "description": "App para rastreio de encomendas",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glasser95/AppRastreioEncomenda.git"
+  },
+  "author": "Glasser Fernando Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glasser95/AppRastreioEncomenda/issues"
+  },
+  "homepage": "https://github.com/glasser95/AppRastreioEncomenda#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
