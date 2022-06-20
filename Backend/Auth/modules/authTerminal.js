@@ -1,8 +1,6 @@
 
-const authenticationTerminal = async function(req, res){
+module.exports = async function authenticationTerminal(req, res){
     //const[user, password] = req.params
-    console.log('auth terminal')
+    res.status(200).send('auth terminal');
 
 }
-
-module.exports = {authenticationTerminal}
